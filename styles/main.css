@@ -431,6 +431,7 @@ footer{
         width: 90%;
         height: auto;
         align-items: center;
+        justify-items:auto;
     }
     .box-container{
         top: 0px;
@@ -439,16 +440,16 @@ footer{
         height: auto;
         align-items: center;
         background-size: auto;
-        padding-left: 2;
+       
     }
-    .box-1{
-        height: auto;
-        width: auto;
-    }
-
-    .box-2{
-        height: auto;
-        width: auto;
+    .box-1, .box-2{
+        width: 350px;
+        height: 130px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: left; 
+        padding: 0%;
+        padding-left: 0%;     
     }
 
     #wrapper--skillstack_items{
