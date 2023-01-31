@@ -430,6 +430,7 @@ footer{
         flex-direction: column;
         width: 90%;
         height: auto;
+        gap: 1em;
         align-items: center;
         justify-items:auto;
     }
@@ -447,7 +448,7 @@ footer{
         height: 130px;
         background-size: contain;
         background-repeat: no-repeat;
-        background-position: left; 
+        background-position: center; 
         padding: 0%;
         padding-left: 0%;     
     }
