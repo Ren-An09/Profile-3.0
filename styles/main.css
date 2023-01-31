@@ -420,7 +420,7 @@ footer{
     }
     .about-text{
         width: 90%;
-        text-align: centerS;
+        text-align: center;
         flex-direction: column;
         gap: 1 em;
         padding: 1;
@@ -455,6 +455,14 @@ footer{
 
     #wrapper--skillstack_items{
         font-size: 0.5em;
+
+    }
+    .contact-me{
+        width: 90%;
+        text-align: center;
+        flex-direction: column;
+        gap: 1 em;
+        padding: 1;
 
     }
 }
